@@ -1,0 +1,11 @@
+{
+    "backtest": {
+        "1": {
+            "stock": "SSI",
+            "year": "2023",
+            "algo": "algo1",
+            "pnl": "-1000"
+        },
+        "2": { "stock": "BID", "year": "2022", "algo": "algo1", "pnl": "+5" }
+    }
+}
